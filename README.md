@@ -1,34 +1,3 @@
- if People is doubting how far you can go,go so far that you can't hear them anymore
-1  Hello World App		 (Done)
-2. Simple Counter		 (Done)
-3. Temperature Control App	 (In Progress)
-4. Search Filter		 (Done)
-5. Basic Registration Form 	 (Done)
-6. React Quiz App		 (Done)
-8. User Login app using Auth0    (In Progress)
-9. Todo List			 (Done)
-10. Gym Website 		 (Done)  
-11. Simple Contact List		 (In Progress)
-12. Recipe App With React js	 (In Progress)
-13. Shopping list app		 (Not Started)
-14. Weather App in React JS  	 (Not Started)
-15. PORTFOLIO			 (In Progress)
-16. Random Quote Generator 	 (Done) 
-18. Hangman Game in React	 (Not Started)
-19. Instagram Clone		 (Not Started)
-20. Chat App in React & Firebase (In Progress)
-21. COVID-19 Tracker		 (Not Started)
-22. Slack Clone			 (Not Started)
-23. Photo Gallery App 		 (Not Started)
-24. Lyric Search App             (Not Started)
-25. Budget Management App	 (Not Started)
-26. Build an Expense Tracker	 (Not Started)
-27. Building Tetris in React	 (Not Started)
-28. GitHub Jobs React App	 (Not Started)
-29. YouTube Clone		 (Not Started)
-30. Voice Assistant App 	 (Not Started)
------------------------------------------------------------------------------------------------------
-
 GitHub:
 
 1 git config --global user.name hassan				    //set the name 
